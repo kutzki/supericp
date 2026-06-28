@@ -38,7 +38,7 @@ A single named person used as a messaging device (not a statistic).
 
 **Decision-making structure (B2B):**
 
-- Economic buyer (owns budget):
+- Economic buyer — owns the budget / final yes *(in committee sales the **decision-maker** and the **payer** can differ — e.g. a VP decides, procurement pays. Name both):*
 - Champion (drives it internally):
 - End user (feels the pain):
 - Blocker (whose "no" matters most):

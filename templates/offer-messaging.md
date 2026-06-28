@@ -76,8 +76,8 @@ Tune *how much you explain* to where the customer's head is at (Eugene Schwartz)
 |---|---|---|
 | Unaware | nothing | the problem / a story |
 | Problem-aware | they have the pain | empathy + naming the pain |
-| Solution-aware | solutions exist | why your approach wins |
-| Product-aware | your product exists | proof, differentiation, offer |
+| Solution-aware | solution *types* exist (not yours yet) | your mechanism — why this *kind* of solution gets the result |
+| Product-aware | your product exists | proof, differentiation, "why us", offer |
 | Most-aware | they want it | the deal, urgency, CTA |
 
 ---

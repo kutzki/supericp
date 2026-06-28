@@ -135,7 +135,8 @@ each toward something *observable*.
   location, identity.)*
 - **Technographics / context:** what tools/platforms they already run — for
   integration, displacement, or as a tell. *(Often the sharpest proxy.)*
-- **Decision structure (B2B):** who's on the buying committee — economic buyer,
+- **Decision structure (B2B):** who's on the buying committee — economic buyer
+  (note *who decides* and *who pays* can differ — a VP decides, procurement pays),
   champion, end user, blocker? "If everyone says yes but one person says no,
   whose no matters most?" Note: the person who *feels the pain* is often 2–3
   levels below the title you'd assume.
