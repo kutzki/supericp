@@ -48,9 +48,10 @@ the pain most acutely. `[EVIDENCE]`
 - **Social:** Look like a real CEO who knows their numbers in front of investors.
 - **Struggling moment:** Month-end, staring at a Shopify export at 11pm, unsure if
   they made money. `[EVIDENCE]`
-- **Four forces:** Push = books always late & wrong · Pull = "real-time margins" ·
-  Anxiety = "will it sync my 2 years of history correctly?" · Habit = the
-  spreadsheet they've limped along with for years.
+- **Four forces** *(a switch happens only when the forces FOR change outweigh the forces AGAINST):*
+  - **For** → Push = books always late & wrong `[EVIDENCE]` · Pull = "real-time margins" `[ASSUMPTION → validate]`
+  - **Against** → Anxiety = "will it sync my 2 years of history correctly?" `[EVIDENCE — said in 3 sales calls]` · Habit = the spreadsheet they've limped along with for years `[EVIDENCE]`
+  - **Blocking force = Anxiety** (data-migration fear). Reducing it (free done-for-you migration) is the single highest-leverage offer lever.
 
 ---
 
@@ -61,6 +62,7 @@ the pain most acutely. `[EVIDENCE]`
 | "I never know my real margins." | "I want to see profit by product, live." |
 | "Tax season is a fire drill every year." | "Books that are just… done, every month." |
 | "I'm doing finance at midnight instead of growing." | "Hand my accountant a clean export in one click." |
+| *(no matching pain — a pure aspiration)* | "Walk into a board meeting and field any margin question cold." |
 
 **Cost of inaction:** ~6 founder hours/week + mispriced SKUs quietly bleeding margin.
 
@@ -106,13 +108,16 @@ the pain most acutely. `[EVIDENCE]`
 | No in-house accountant | 20% | none | part-time | full controller |
 | Active trigger | 20% | 2+ signals | 1 signal | none |
 
-**Tiering:** A = work now · B = nurture · C = disqualify.
+**Composite score** = Σ(criterion grade × weight) on the 1–3 scale.
+**Tier:** A (work now) ≥ 2.5 · B (nurture) 1.8–2.49 · C (deprioritize) < 1.8.
+
+**Hard gate — overrides the score:** any **Anti-ICP** hit auto-disqualifies regardless of composite. (A `<$500k` account still scores a C(1) on revenue and could otherwise earn points elsewhere — the gate stops the weighted score from smuggling a disqualified account back in. A disqualifier is a *gate*, not a weighted input.)
 
 ---
 
 ## 🔬 Validation plan
 
-- [x] **60% test:** 7/8 best accounts match → ✅ passes.
+- [x] **60% test:** 7/8 best accounts match → ✅ passes — *but n=8 is directional and survivorship-biased (best-retained only); confirm against the full closed-won set and the churned cohort below before locking this in.*
 - [ ] **Retention litmus:** confirm ICP-fit logos retain > non-fit (pull cohort data).
 - [ ] **Win/loss:** review last 10 lost deals — how many were anti-ICP?
 - [ ] **Operationalize:** add `revenue_band`, `accounting_stack`, `order_volume` to CRM.

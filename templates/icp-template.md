@@ -53,11 +53,10 @@ A single named person used as a messaging device (not a statistic).
 - **Emotional job** (how they want to feel):
 - **Social job** (how they want to be seen):
 - **The struggling moment / trigger** ("the last time this bit them…"):
-- **The four forces:**
-  - Push (pain of today):
-  - Pull (attraction of the new):
-  - Anxiety (fear of switching):
-  - Habit (inertia):
+- **The four forces** *(a switch happens only when the forces FOR change outweigh the forces AGAINST it):*
+  - **For change** → Push (pain of today): … · Pull (attraction of the new): …
+  - **Against change** → Anxiety (fear of switching): … · Habit / inertia: …
+  - **Which force is currently blocking the switch, and what reduces it?** (this is the highest-leverage offer lever):
 
 ---
 
@@ -107,7 +106,10 @@ Weight the fit + signal criteria so a rep or marketer can rank an account/lead.
 |---|---|---|---|---|
 | | | | | |
 
-**Tiering:** A = work now · B = nurture · C = disqualify.
+**Composite score** = Σ(criterion grade × weight) on a 1–3 scale →
+**Tier:** A (work now) ≥ 2.5 · B (nurture) 1.8–2.49 · C (deprioritize) < 1.8.
+
+**Hard gate — overrides the score:** any **Anti-ICP** hit = auto-disqualify, regardless of composite. A disqualifier is a *gate*, not a weighted input — don't let a high weighted score smuggle a disqualified account back in.
 
 ---
 

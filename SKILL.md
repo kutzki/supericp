@@ -168,9 +168,10 @@ This is the psychological heart. Use Jobs-to-be-Done + the Value Proposition Can
 
 A modern ICP doesn't just describe — it tells you who to work *this week*.
 
-- "What's usually happening at a company/in a person's life **right before** they
-  become a great customer?" (funding round, new hire, a new regulation, a product
-  launch, a season, a life event, hitting a size threshold…)
+- Ask the open Mom-Test version first: "Walk me through what was going on at the
+  company (or in their life) the month **before** your best customer signed." *Only if
+  they stall*, offer examples to prime — funding round, new hire, new regulation,
+  product launch, season, life event, size threshold — without leading them to one.
 - "Is there an **observable** signal of that?" (a job posting, a news event, a
   tech change, a behavior on your site, a piece of content they engaged with)
 - Frame the four signal types if useful: **Fit** (could they ever buy?) ·
@@ -204,6 +205,9 @@ Produce the final ICP using the **Output specification** below. Then:
 - Show the **scorecard** (fit + signals) so it's operational.
 - Show the **anti-ICP.**
 - Include the **validation plan** (see below) — every ICP is a hypothesis until proven.
+- **Sanity-check reach & size before locking:** a comically-narrow ICP must still be a
+  *reachable, sizeable* segment. Ask: "Could you name or source at least ~20–50 of these
+  this quarter?" If not, the profile is too narrow to act on — broaden one axis.
 - Offer the optional **Offer & Messaging module** (Step 8).
 
 ### Step 8 — Optional: Offer & Messaging module
@@ -267,7 +271,10 @@ device. Role, context, and the moment they realize they need you.>
 | After | | | |
 
 ## 🧮 Scorecard  (make it operational)
-<Weighted fit + signal criteria, A/B/C tiers, so the team can rank accounts/leads.>
+<Weighted fit + signal criteria scored 1–3, a composite-score → tier rule
+(e.g. ≥2.5 = A / 1.8–2.49 = B / <1.8 = C), AND a separate hard-gate layer where any
+anti-ICP hit auto-disqualifies regardless of score. A disqualifier is a *gate*, not a
+weighted input — never let a high weighted score smuggle a disqualified account back in.>
 
 ## 🔬 Validation plan
 <How to prove this ICP is real, see below.>
@@ -336,7 +343,7 @@ SuperICP stands on the shoulders of the people who defined how this is done well
 - **The Mom Test** — Rob Fitzpatrick (asking about real past behavior, never hypotheticals)
 - **$100M Offers** — Alex Hormozi (the Value Equation; offer design)
 - **Building a StoryBrand** — Donald Miller (customer-as-hero, the SB7 framework)
-- **Jobs to Be Done** — Clayton Christensen, Bob Moesta & Tony Ulwick (functional/emotional/social jobs; the four forces of the switch)
+- **Jobs to Be Done** — progress-based JTBD (Clayton Christensen); the Four Forces of the switch (Bob Moesta / Re-Wired Group); functional/emotional/social job dimensions (common JTBD/ODI usage, Tony Ulwick)
 - **Value Proposition Canvas** — Strategyzer / Osterwalder (pains & gains)
 - **Breakthrough Advertising** — Eugene Schwartz (the five awareness levels)
 - **The Customer Avatar** — DigitalMarketer (the Before→After grid)
