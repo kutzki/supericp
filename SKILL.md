@@ -336,7 +336,7 @@ SuperICP stands on the shoulders of the people who defined how this is done well
 - **The Mom Test** — Rob Fitzpatrick (asking about real past behavior, never hypotheticals)
 - **$100M Offers** — Alex Hormozi (the Value Equation; offer design)
 - **Building a StoryBrand** — Donald Miller (customer-as-hero, the SB7 framework)
-- **Jobs to Be Done** — Clayton Christensen & Bob Moesta (functional/emotional/social jobs; the four forces of the switch)
+- **Jobs to Be Done** — Clayton Christensen, Bob Moesta & Tony Ulwick (functional/emotional/social jobs; the four forces of the switch)
 - **Value Proposition Canvas** — Strategyzer / Osterwalder (pains & gains)
 - **Breakthrough Advertising** — Eugene Schwartz (the five awareness levels)
 - **The Customer Avatar** — DigitalMarketer (the Before→After grid)

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "🐛 Bug, typo, or framework inaccuracy"
+    url: https://github.com/kutzki/supericp/issues/new
+    about: "Open a blank issue for fixes — broken links, typos, or a framework described incorrectly."
+  - name: "💬 Sharper interview question"
+    url: https://github.com/kutzki/supericp/issues/new
+    about: "Suggest a question SuperICP should ask. Say which step it belongs in and why."
