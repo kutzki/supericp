@@ -51,7 +51,8 @@ No install. No API keys. It's a skill, not software.
 > your skills/plugins folder and call it by name. The YAML frontmatter in `SKILL.md` is already
 > in the standard skill format — it'll be picked up automatically.
 
-That's it. In ~15 minutes of conversation you'll have a profile your whole team can rally behind.
+That's it. A ~15-minute conversation gets you a sharp first draft your whole team can rally
+behind — then the built-in validation plan turns that draft into a profile the data backs up.
 
 ---
 
@@ -157,6 +158,7 @@ Olivia," her pains in her own words, the buying triggers, the anti-ICP, and a CR
 supericp/
 ├── README.md                      ← you are here
 ├── SKILL.md                       ← the skill. Paste this into any agent.
+├── CONTRIBUTING.md                ← how to contribute (fictional examples only)
 ├── templates/
 │   ├── icp-template.md            ← the blank deliverable, fill it in yourself
 │   └── offer-messaging.md         ← optional: Hormozi offer + StoryBrand message
