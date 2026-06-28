@@ -75,6 +75,24 @@ SuperICP doesn't just describe your customer — it produces a profile you can *
 
 ---
 
+## 🧭 The AVATAR Method
+
+Every session follows one memorable arc — so you always know where you are and
+can explain it to your team in a sentence:
+
+| | Beat | What happens |
+|---|---|---|
+| **A** | **Aim** | What you sell, your model, and what this ICP is *for* |
+| **V** | **Verify with evidence** | Reverse-engineer your best, closed-won customers |
+| **A** | **Ask** | Interview the fit + the job, pains & gains |
+| **T** | **Triggers** | The buying signals that say who to work *now* |
+| **A** | **Anti-ICP** | Who to refuse — as hard rules |
+| **R** | **Render** | Before→After, the profile, and the optional offer |
+
+> The **V** is *Verify*, not *Vision* — evidence sits at the center on purpose.
+
+---
+
 ## 🧬 Why it's different
 
 Most "ICP generators" spit out a generic persona from three inputs. SuperICP is built on the
